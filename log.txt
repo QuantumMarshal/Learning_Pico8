@@ -1,0 +1,6 @@
+[00:00:00] [INFO] Up
+[00:00:01] [INFO] Down
+[00:00:01] [INFO] Left
+[00:00:02] [INFO] Right
+[00:00:02] [INFO] Z
+[00:00:03] [INFO] X
